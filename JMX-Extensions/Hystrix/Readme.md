@@ -15,6 +15,12 @@
 | **Threads Rejected** | Thread pool has no room, and rejected the command |
 
 
+**Aggregation**
+For all Metrics the Aggregation is SUM. This can be changed in the Json file. 
+
+**Splitting**
+In this plugin the spilt is happening per instance type for all metrics
+
 **This looks as follows on the Dashboard**
 
 
