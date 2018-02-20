@@ -16,4 +16,4 @@
 
 
 **This looks as follows on the Dashboard**
-![](./images/HystrixCircuitBreaker.png)
+![](./HystrixCircuitBreaker.png)
